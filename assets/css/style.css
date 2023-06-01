@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Changed .benefits height to 940px to clean up web page layout. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
