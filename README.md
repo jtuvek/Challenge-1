@@ -1,4 +1,4 @@
-[Repository Link](git@github.com:jtuvek/Horiseon-Refactory-code.git)
+[Repository Link](https://github.com/jtuvek/Horiseon-Refactory-code.git)
 
 [Web page Link](https://jtuvek.github.io/Horiseon-Refactory-code/)
 
